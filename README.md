@@ -1,5 +1,4 @@
 <h1>CBTCIP</h1>
-<hr>
 <br>
 <br>
 This Repository contains two tasks/projects. <br>
